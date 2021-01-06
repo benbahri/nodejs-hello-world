@@ -3,7 +3,7 @@ Hello World sample
 
 See [Manage Google Compute Engine with Node.js](https://medium.com/@fhinkel/manage-google-compute-engine-with-node-js-eef8e7a111b4) on Medium.
 
-#Créer un docker container
+# Créer un docker container
 La première chose que vous devez faire est de créer un fichier nommé "Dockerfile", puis de définir dans celui-ci **l'image que vous allez utiliser comme** base, grâce à l'instruction `FROM`. Dans notre cas, nous allons utiliser une image de base Debian 9.
 
 ``` {#r-6211465 .code-block data-claire-element-id="29044310"}
